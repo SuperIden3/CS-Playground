@@ -1,0 +1,15 @@
+/home/chi_zu/workspace/CS-Playground/bin/Debug/net8.0/CS-Playground
+/home/chi_zu/workspace/CS-Playground/bin/Debug/net8.0/CS-Playground.deps.json
+/home/chi_zu/workspace/CS-Playground/bin/Debug/net8.0/CS-Playground.runtimeconfig.json
+/home/chi_zu/workspace/CS-Playground/bin/Debug/net8.0/CS-Playground.dll
+/home/chi_zu/workspace/CS-Playground/bin/Debug/net8.0/CS-Playground.pdb
+/home/chi_zu/workspace/CS-Playground/obj/Debug/net8.0/CS-Playground.GeneratedMSBuildEditorConfig.editorconfig
+/home/chi_zu/workspace/CS-Playground/obj/Debug/net8.0/CS-Playground.AssemblyInfoInputs.cache
+/home/chi_zu/workspace/CS-Playground/obj/Debug/net8.0/CS-Playground.AssemblyInfo.cs
+/home/chi_zu/workspace/CS-Playground/obj/Debug/net8.0/CS-Playground.csproj.CoreCompileInputs.cache
+/home/chi_zu/workspace/CS-Playground/obj/Debug/net8.0/CS-Playground.sourcelink.json
+/home/chi_zu/workspace/CS-Playground/obj/Debug/net8.0/CS-Playground.dll
+/home/chi_zu/workspace/CS-Playground/obj/Debug/net8.0/refint/CS-Playground.dll
+/home/chi_zu/workspace/CS-Playground/obj/Debug/net8.0/CS-Playground.pdb
+/home/chi_zu/workspace/CS-Playground/obj/Debug/net8.0/CS-Playground.genruntimeconfig.cache
+/home/chi_zu/workspace/CS-Playground/obj/Debug/net8.0/ref/CS-Playground.dll
