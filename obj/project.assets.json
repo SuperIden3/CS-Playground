@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/chi_zu/.nuget/packages/": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/chi_zu/workspace/CS-Playground/CS-Playground.csproj",
+      "projectUniqueName": "/workspaces/CS-Playground/CS-Playground.csproj",
       "projectName": "CS-Playground",
-      "projectPath": "/home/chi_zu/workspace/CS-Playground/CS-Playground.csproj",
-      "packagesPath": "/home/chi_zu/.nuget/packages/",
-      "outputPath": "/home/chi_zu/workspace/CS-Playground/obj/",
+      "projectPath": "/workspaces/CS-Playground/CS-Playground.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/CS-Playground/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/chi_zu/.nuget/NuGet/NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/chi_zu/workspace/CS-Playground/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/workspaces/CS-Playground/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
